@@ -1,0 +1,57 @@
+
+[
+  {
+    "promotor": [
+      {
+        "name" : "Place 1",
+        "description": "description 1",
+        "place": "Place 1",
+        "start": "12/12/2021",
+        "end": "12/12/2021"
+      },
+      {
+        "name" : "Place 2",
+        "description": "description 2",
+        "place": "Place 2",
+        "start": "12/12/2021",
+        "end": "12/12/2021"
+      }
+    ]
+  },
+  {
+    "promotor": [
+      {
+        "name" : "Place 3",
+        "description": "description 1",
+        "place": "Place 1",
+        "start": "12/12/2021",
+        "end": "12/12/2021"
+      },
+      {
+        "name" : "Place 4",
+        "description": "description 2",
+        "place": "Place 2",
+        "start": "12/12/2021",
+        "end": "12/12/2021"
+      }
+    ]
+  },
+  {
+    "promotor": [
+      {
+        "name" : "Place 5",
+        "description": "description 1",
+        "place": "Place 1",
+        "start": "12/12/2021",
+        "end": "12/12/2021"
+      },
+      {
+        "name" : "Place 6",
+        "description": "description 2",
+        "place": "Place 2",
+        "start": "12/12/2021",
+        "end": "12/12/2021"
+      }
+    ]
+  }
+]
